@@ -1,13 +1,13 @@
 
 TITLE: 
-Energy - 100% Fully Responsive Free HTML5 Bootstrap Template
+Savory - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by GetTemplates.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://gettemplates.co/
+Twitter: http://twitter.com/gettemplatesco
+Facebook: http://facebook.com/gettemplatesco
 
 
 CREDITS:
@@ -27,14 +27,11 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
-Google Map
-https://maps.google.com/
-
-Simple Line Icons
-https://thesabbir.github.io/simple-line-icons/
-
 Icomoon
 https://icomoon.io/app/
+
+Themify Icons
+https://themify.me/themify-icons
 
 Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
@@ -45,20 +42,24 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Superfish Menu
-http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
 
-hoverIntent
-https://github.com/briancherne/jquery-hoverIntent
+jQuery countTo
+http://www.owlcarousel.owlgraphic.com/
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+MomentJS
+https://github.com/moment/moment
+
+Bootstrap DateTimePicker
+http://eonasdan.github.io/bootstrap-datetimepicker/
 
 Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
 
-Flexslider 
-http://flexslider.woothemes.com/
-
-CountTo
-https://github.com/mhuggins/jquery-countTo
-
 Demo Images:
-http://unsplash.com/
+http://unsplash.com
+
